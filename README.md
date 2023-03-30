@@ -16,7 +16,7 @@ A simple and efficient Python-based port scanner that scans all TCP ports for a 
 
 1. Clone this repository or download the script.
 2. Open a terminal and navigate to the directory where the script is located.
-3. Run the script using `python3 port_scanner.py` (or `python port_scanner.py` if your default Python version is 3.x).
+3. Run the script using `python3 PortScanner.py` (or `python PortScanner.py` if your default Python version is 3.x).
 4. Enter the IP address you want to scan when prompted.
 5. The script will scan all TCP ports and display any open ports in the terminal.
 
